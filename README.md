@@ -1,7 +1,7 @@
 ## Hey there! I'm Pratham, a 1st year Computer Science student at UC Irvine!
 
-![feb12025](https://github.com/user-attachments/assets/01296122-6da1-40a2-8a00-7c8948945045){ width="800" height="600" style="display: block; margin: 0 auto" }
-
+![feb12025](https://github.com/user-attachments/assets/01296122-6da1-40a2-8a00-7c8948945045)
+        
 I'm interested in the intersection of **software engineering and machine learning**. I truly believe that there is no greater sense of achievement in computer science than solving some tough real-world problems! Explore some of my repositories to learn more!
 
 Let's keep in touch! Connect with me on [Linkedin](https://www.linkedin.com/in/pratham-hebbar-b90701213/), view my [resume](file:///Users/prathamhebbar/Downloads/Pratham%20Hebbar%20-%20Resume.docx.pdf), or reach out to me through [email](prathamhebbar2021@gmail.com)
