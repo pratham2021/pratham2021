@@ -6,6 +6,8 @@ I'm interested in the intersection of **software engineering and machine learnin
 
 Let's keep in touch! Connect with me on [Linkedin](https://www.linkedin.com/in/pratham-hebbar-b90701213/), view my [resume](file:///Users/prathamhebbar/Downloads/Pratham%20Hebbar%20-%20Resume.docx.pdf), or reach out to me through [email](prathamhebbar2021@gmail.com)
 
+I'm also looking forward to expand my knowledge of web development and its skills
+
 <!--
 **pratham2021/pratham2021** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
