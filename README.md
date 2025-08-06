@@ -4,7 +4,7 @@
         
 I'm interested in the intersection of **software engineering and machine learning**. I truly believe that there is no greater sense of achievement in computer science than solving some tough real-world problems! Explore some of my repositories to learn more!
 
-Let's keep in touch! Connect with me on [Linkedin](https://www.linkedin.com/in/prathamhebbar/), view my [resume](https://github.com/user-attachments/files/20957895/Pratham.Hebbar.-.CV.pdf), or reach out to me through [email](prathamhebbar2021@gmail.com)
+Let's keep in touch! Connect with me on [Linkedin](https://www.linkedin.com/in/prathamhebbar/) or reach out to me through [email](prathamhebbar2021@gmail.com)
 
 I'm also looking forward to expand my knowledge and skills of web development!
 
