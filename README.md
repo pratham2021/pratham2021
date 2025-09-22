@@ -1,4 +1,4 @@
-## Hey there! I'm Pratham, a 1st year Software Engineering major student at UC Irvine!
+## Hey there! I'm Pratham, a 2nd year Software Engineering major student at UC Irvine!
 
 ![feb12025](https://github.com/user-attachments/assets/01296122-6da1-40a2-8a00-7c8948945045)
         
