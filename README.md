@@ -1,6 +1,8 @@
 ## Hey there! I'm Pratham, a 2nd year Software Engineering major student at UC Irvine!
 
-![feb12025](https://github.com/user-attachments/assets/01296122-6da1-40a2-8a00-7c8948945045)
+![sep262025](file:///Users/prathamhebbar/Desktop/pratham%20website/images/sep262025.jpg)
+
+![s]
         
 I'm interested in the intersection of **software engineering and machine learning**. I truly believe that there is no greater sense of achievement in computer science than solving some tough real-world problems! Explore some of my repositories to learn more!
 
