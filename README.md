@@ -1,4 +1,4 @@
-## Hey there! I'm Pratham, a 2nd year Computer Science major student at UC Irvine!
+## Hey there! I'm Pratham, a 3rd year Computer Science major student at UC Irvine!
 
 I'm interested in the intersection of **software engineering and machine learning**. I truly believe that there is no greater sense of achievement in computer science than solving some tough real-world problems! Explore some of my repositories to learn more!
 
